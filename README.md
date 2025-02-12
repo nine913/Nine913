@@ -1,6 +1,5 @@
 ## Olá! Meu nome é André Vitor
 
-- 🔭 Procurando um estágio
 - 🌱 Estudante universitário de python
 
 <img align="center" alt="Nine-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Nine-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
