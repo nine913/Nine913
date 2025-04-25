@@ -1,5 +1,5 @@
-# 👋 Hello there, Welcome to my Github profile!
-- My name is André Vitor
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=👋Hello,+my+name+is+André+Vitor;Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <h2 align="left">About me</h2>
 
